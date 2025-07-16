@@ -1,0 +1,13 @@
+venv/
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.h5
+venv/
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.h5

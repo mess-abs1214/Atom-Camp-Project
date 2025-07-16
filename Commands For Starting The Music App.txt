@@ -1,0 +1,7 @@
+1. cd "C:\Users\meisu\Downloads\Emotion-based-music-recommendation-system-main"
+.\venv\Scripts\activate
+2. streamlit run app.py
+
+For globally running the app
+
+streamlit run "C:\Users\meisu\Downloads\Emotion-based-music-recommendation-system-main\app.py"
